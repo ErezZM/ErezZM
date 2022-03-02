@@ -8,7 +8,7 @@ You've stayed on my page for:
 </p>
 
 <p align="center">
-<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+<a href="https://github.com/ErezZM/ErezZM/blob/main/clock.svg" title="Animated SVG clock"><img src="https://github.com/ErezZM/ErezZM/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
 
 ## 🙋‍♂️ About Me
