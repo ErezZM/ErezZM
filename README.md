@@ -3,6 +3,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Erez</h1>
 <h3 align="center">I'm a Beginner Developer from Israel</h3>
 
+<p align="center">
+You've stayed on my page for:
+</p>
+
+<p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
 
 ## 🙋‍♂️ About Me
 
